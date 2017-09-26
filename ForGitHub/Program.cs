@@ -10,6 +10,7 @@ namespace ForGitHub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hell World");
         }
     }
 }
